@@ -1,0 +1,16 @@
+{
+  "name": "06-nodejs-sendingsms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.7",
+    "nexmo": "^2.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
